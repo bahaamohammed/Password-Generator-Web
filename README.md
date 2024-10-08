@@ -2,6 +2,10 @@
 
 A simple and interactive password generator web application that allows users to create secure, random passwords based on their specified criteria.
 
+## Screenshot
+
+![Screenshot of the Quiz](images/screenshot.png)
+
 ## Features
 
 - **Customizable Password Length**: Users can specify the length of the password (minimum of 8 characters).
